@@ -1,16 +1,32 @@
 {
-    "posts": [
+    "entries": [
       {
         "id": 1,
-        "title": "Post 1"
+        "task": "Post 1",
+        "user": 10,
+        "date": "2020-07-08",
+        "comment": "project meeting"
       },
       {
         "id": 2,
-        "title": "Post 2"
+        "task": "Post 2",
+        "user": 10,
+        "date": "2020-07-08",
+        "comment": "project meeting"
       },
       {
         "id": 3,
-        "title": "Post 3"
+        "task": "Post 3",
+        "user": 10,
+        "date": "2020-07-08",
+        "comment": "project meeting"
+      },
+      {
+        "id": 4,
+        "task": "Post 4",
+        "user": 10,
+        "date": "2020-07-08",
+        "comment": "project meeting"
       }
     ],
     "comments": [
